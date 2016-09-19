@@ -1,1 +1,1 @@
-Text changed by branch 2.
+Some base text now changed by branch1
